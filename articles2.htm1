@@ -1,13 +1,91 @@
-The Role of Color in Modern Poster Design
-⁨16 اکتبر، 2025⁩ توسط ⁨Helya.nezamevand⁩
-The Role of Color in Modern Poster Design
-💎 نویسنده:هلیا نظامیوند
-The Role of Color in Modern Poster Design
-✍️ Written by Helya Nezamevand
-In the world of modern design, color is one of the most important tools for communicating with the audience. Each color can express a unique emotion — for example, red conveys energy and excitement, while blue gives a sense of calm and trust.
-In poster design, color choices must always be intentional. A professional designer knows how the combination of bright and soft tones affects the viewer’s eyes and emotions. Modern posters often use limited, minimal color palettes to make the main message clearer.
-In my own projects, I’ve tried to use color to create balance between simplicity and attractiveness. In poster design, there are two main color systems: RGB and CMYK.
-🔹 RGB stands for Red, Green, and Blue — used for digital posters, screens, and online visuals.
-🔹 CMYK stands for Cyan, Magenta, Yellow, and Black — used for printed posters and materials.
-Ultimately, color is not just a part of visual beauty; it is a language that speaks to the viewer without words.
-📍 Author: Helya Nezamevand | G
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>The Role of Color in Modern Poster Design</title>
+  <style>
+    body {
+      font-family: 'Vazirmatn', sans-serif;
+      background: #f4f4f4;
+      color: #333;
+      margin: 40px;
+    }
+
+    h1 {
+      font-size: 32px;
+      color: #6a1b9a;
+      text-align: center;
+    }
+
+    h2 {
+      font-size: 24px;
+      color: #444;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+
+    .author {
+      text-align: center;
+      font-size: 18px;
+      color: #777;
+    }
+
+    p {
+      font-size: 18px;
+      line-height: 1.8;
+      margin-bottom: 20px;
+    }
+
+    .highlight {
+      background-color: #f3e8f7;
+      padding: 10px;
+      border-radius: 5px;
+      margin-bottom: 20px;
+    }
+
+    .back-link {
+      display: block;
+      text-align: center;
+      margin-top: 30px;
+      font-size: 18px;
+    }
+
+    .back-link a {
+      color: #6a1b9a;
+      text-decoration: none;
+    }
+
+    .back-link a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>The Role of Color in Modern Poster Design</h1>
+  
+  <div class="author">
+    <p>✍️ Written by: Helya Nezamevand</p>
+    <p>📍 Author: Helya Nezamevand | Graphic Designer</p>
+  </div>
+
+  <p>In the world of modern design, color is one of the most important tools for communicating with the audience. Each color can express a unique emotion — for example, red conveys energy and excitement, while blue gives a sense of calm and trust.</p>
+
+  <p>In poster design, color choices must always be intentional. A professional designer knows how the combination of bright and soft tones affects the viewer’s eyes and emotions. Modern posters often use limited, minimal color palettes to make the main message clearer.</p>
+
+  <p>In my own projects, I’ve tried to use color to create balance between simplicity and attractiveness. In poster design, there are two main color systems: RGB and CMYK.</p>
+
+  <div class="highlight">
+    <p><strong>🔹 RGB</strong> stands for Red, Green, and Blue — used for digital posters, screens, and online visuals.</p>
+    <p><strong>🔹 CMYK</strong> stands for Cyan, Magenta, Yellow, and Black — used for printed posters and materials.</p>
+  </div>
+
+  <p>Ultimately, color is not just a part of visual beauty; it is a language that speaks to the viewer without words.</p>
+
+  <div class="back-link">
+    <a href="index.html">بازگشت به صفحه اصلی</a>
+  </div>
+
+</body>
+</html>
